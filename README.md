@@ -5,6 +5,7 @@ Iglesia Bautista Nueva Jerusalen.
 El Sauce Santa Ana F.M 
 
 Nuestro proposito:
+
 *Ganar Almas para Cristo.
 
 *Enseñar el camino de la Verdad y de la Salvacion.
