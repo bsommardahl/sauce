@@ -7,9 +7,7 @@ El Sauce Santa Ana F.M
 Pastor: Juan Alberto Cruz Cruz
 
 Nuestro proposito:
-
 *Ganar Almas para Cristo.
-
 *Enseñar el camino de la Verdad y de la Salvacion.
 
 San Juan 3:16
