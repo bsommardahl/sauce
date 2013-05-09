@@ -2,7 +2,9 @@ sauce
 =====
 
 Iglesia Bautista Nueva Jerusalen.
-El Sauce Santa Ana F.M 
+El Sauce Santa Ana F.M
+
+Pastor: Juan Alberto Cruz Cruz
 
 Nuestro proposito:
 
@@ -12,8 +14,6 @@ Nuestro proposito:
 
 San Juan 3:16
 Por que de tal manera amo Dios al mundo, que ha dado a su Hijo unigenito,para que todo aquel que en el cree,no se pierda,mas tenga vida eterna.
-
-Pastor: Juan Alberto Cruz Cruz
 
 Devocionales: 
 Miercoles de 7:00pm a 9:00pm:Oracion.
