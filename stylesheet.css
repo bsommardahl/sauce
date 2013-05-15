@@ -1,5 +1,14 @@
-* {background:#7ac5cd ; }
-.grande{height:400px; width:400px;}
+body {background:#b7d1c4 ; }
+.grande{height:541px; width:1330px;text-aling:center}
 p {font-family:Verdana; }
-* { border: 1px dashed black;}
-li {font-family:Vivaldi,cursive: }
+li {font-family:Vivaldi,cursive; }
+ol  {text-decoration:underline;}
+ul {font-size:20px; }
+.cuadro{height:200px; width:300px;}
+ul {font-size:20px; }
+
+.encabezado { border: solid 1px black; width: 100%;}
+.menu {border:solid 1px violet; width: 100%; font-family:Garamond; }
+td{background-color:#8b668b;}
+.rojo {height:200px; width:300px;}
+.verde{height:200px; width:250px;text-align:left;}
